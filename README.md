@@ -1,5 +1,14 @@
-### Hi there 👋
+### Hi there 👋,I'm Hüsnü
 
+#### A Student in **Ecolé 42**
+
+- 🌱 I’m currently learning C and Cobol
+- 📫 How to reach me: hpideci@outlook.com
+
+**Connect With Me:**
+
+[<img align="left" alt="husnu-can-pideci | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/husnucanpideci/)
+[<img align="left" alt="husnu-can-pideci_| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/husnucp/)
 <!--
 **hpideci/hpideci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
